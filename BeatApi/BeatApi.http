@@ -1,0 +1,6 @@
+@BeatApi_HostAddress = http://localhost:5110
+
+GET {{BeatApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
